@@ -1,4 +1,5 @@
-# DIN 91379 Characters and Sequences
+# Fork of [DIN 91379 Characters and Sequences](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences) ([Commit de3e846](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/tree/de3e846e674111c5f6d6ca40a145f24c52f818cf))
+## Purpose: provide files as Maven artifact
 ## DIN 91379
 The following files are simple text files containing all characters and sequences from DIN 91379:2022-08.
 
