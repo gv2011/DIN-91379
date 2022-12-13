@@ -1,0 +1,62 @@
+<!-- Copyright (C) 2016-2021 Vinz (https://github.com/gv2011) -->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>com.github.gv2011</groupId>
+    <artifactId>parent-gv</artifactId>
+    <version>1.3</version>
+  </parent>
+
+  <artifactId>din-91379</artifactId>
+  <version>0.1-SNAPSHOT</version>
+
+
+  <description>
+    Fork of [DIN 91379 Characters and Sequences](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences)
+    ([Commit de3e846](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/tree/de3e846e674111c5f6d6ca40a145f24c52f818cf))
+    Purpose: provide files as Maven artifact
+  </description>
+
+  <url>https://github.com/gv2011/gsoncore</url>
+
+  <scm>
+    <connection>scm:git:git@github.com:gv2011/DIN-91379.git</connection>
+    <developerConnection>scm:git:git@github.com:gv2011/DIN-91379.git</developerConnection>
+    <url>https://github.com/gv2011/DIN-91379</url>
+    <tag>HEAD</tag>
+  </scm>
+
+  <inceptionYear>2022</inceptionYear><!-- fork year -->
+
+  <licenses>
+    <license>
+      <name>Creative Commons Attribution 4.0 International (CC BY 4.0)</name>
+      <url>https://creativecommons.org/licenses/by/4.0/</url>
+      <comments>
+        This is a fork of https://github.com/String-Latin/DIN-91379-Characters-and-Sequences from
+        Volker Kunert (https://github.com/vk-github18).
+        
+        The license applies to this Maven artifact, its modules and other content within the GIT 
+        repository specified in the scm section of this file.
+        The copyright years are given by the inceptionYear tag within this file and by the history 
+        of the GIT repository as well as the original repository at 
+        https://github.com/String-Latin/DIN-91379-Characters-and-Sequences.
+        The inceptionYear refers to the fork.
+      </comments>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>Volker Kunert</name>
+      <url>https://github.com/vk-github18</url>
+    </developer>
+    <developer>
+      <id>gv2011</id>
+      <name>Vinz</name>
+      <url>https://github.com/gv2011</url>
+    </developer>
+  </developers>
+
+</project>
