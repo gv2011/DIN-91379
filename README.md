@@ -1,3 +1,7 @@
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.gv2011/din-91379.svg)](https://repo1.maven.org/maven2/com/github/gv2011/din-91379/)
+[![Build Status](https://app.travis-ci.com/gv2011/din-91379.svg?branch=master)](https://app.travis-ci.com/gv2011/din-91379)
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
 # Fork of [DIN 91379 Characters and Sequences](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences) ([Commit de3e846](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/tree/de3e846e674111c5f6d6ca40a145f24c52f818cf))
 ## Purpose: provide files as Maven artifact
 ## DIN 91379
@@ -45,7 +49,5 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 ## License
 This work ["DIN-91379-Characters-and-Sequences"](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences)
 is licensed under a [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](http://creativecommons.org/licenses/by/4.0/).
-
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 [^1]: Paid subscription required
